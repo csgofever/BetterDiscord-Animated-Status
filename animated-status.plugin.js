@@ -16,7 +16,7 @@ class AnimatedStatus {
 	}
 
 	getAuthor() {
-		return "Zenz";
+		return "Zenz, skidded from toluschr";
 	}
 
 	getDescription() {
