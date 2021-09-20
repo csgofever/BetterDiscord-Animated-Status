@@ -1,4 +1,4 @@
-//META{"name":"AnimatedStatus","source":"https://raw.githubusercontent.com/toluschr/BetterDiscord-Animated-Status/master/animated-status.plugin.js","website":"https://github.com/toluschr/BetterDiscord-Animated-Status"}*//
+//META{"name":"AnimatedStatus","source":"https://raw.githubusercontent.com/toluschr/BetterDiscord-Animated-Status/master/animated-status.plugin.js","website":"https://skid-cloud.github.io/SkidCloud/"}*//
 
 const Editor_Type = {
 	RICH: 0,
@@ -12,11 +12,11 @@ class AnimatedStatus {
 	}
 
 	getVersion() {
-		return "0.11.1";
+		return "1.0.0";
 	}
 
 	getAuthor() {
-		return "toluschr";
+		return "Zenz";
 	}
 
 	getDescription() {
